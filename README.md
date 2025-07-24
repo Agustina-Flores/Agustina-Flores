@@ -32,3 +32,7 @@ Desarrolladora Fullstack | .NET · Angular · SQL Server  🚀
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/agustina-flores/)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:agustina.flores.mail@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2?logo=vercel&logoColor=white&style=flat-square)](https://agustina-flores-portfolio.netlify.app/)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Agustina-Flores&color=8A2BE2)
+![Agustina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agustina-Flores&show_icons=true&theme=react)
