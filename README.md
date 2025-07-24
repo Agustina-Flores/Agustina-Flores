@@ -31,4 +31,4 @@ Desarrolladora Fullstack | .NET · Angular · SQL Server  🚀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/agustina-flores/)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:agustina.flores.mail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?logo=vercel&logoColor=white&style=flat-square)](https://agustina-flores-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2?logo=vercel&logoColor=white&style=flat-square)](https://agustina-flores-portfolio.netlify.app/)
